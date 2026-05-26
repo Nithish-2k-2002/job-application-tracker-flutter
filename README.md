@@ -113,13 +113,6 @@ flutter run
 - Charts & Analytics
 - Dark Mode
 
----
-
-# Author
-
-Nithish Kannan
-
----
 
 # License
 
